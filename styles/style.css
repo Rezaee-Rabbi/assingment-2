@@ -222,3 +222,8 @@ hr {
     margin-right: 50px;
     margin-top: 50px;
 }
+
+.footer-menu ul li a {
+    text-decoration: none;
+    color: white;
+}
